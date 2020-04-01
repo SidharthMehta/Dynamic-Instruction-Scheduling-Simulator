@@ -29,7 +29,7 @@ The simulator outputs the following measurements after completion of the run:
 2. Total number of cycles to finish the program.
 3. Average number of instructions completed per cycle (IPC).  
 
-The simulator also outputs  
+The simulator also outputs:  
 1. Number of L1 accesses
 2. Number of L1 misses
 3. Contents of L1 cache
