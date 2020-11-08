@@ -8,7 +8,7 @@ CFLAGS = $(OPT) $(WARN) $(INC) $(LIB)
 SIM_SRC = sim.cpp CACHE.cpp customDataTypes.cpp issueQueue.cpp registerEntity.cpp
 
 # List corresponding compiled object files here (.o files)
-SIM_OBJ = sim.o CACHE.o customDataTypes.o issueQueue.cpp registerEntity.o
+SIM_OBJ = sim.o CACHE.o customDataTypes.o issueQueue.o registerEntity.o
  
 #################################
 
